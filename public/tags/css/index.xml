@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on Heru Pedia</title>
+    <link>http://localhost/tags/css/</link>
+    <description>Recent content in CSS on Heru Pedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 19:04:35 +0700</lastBuildDate><atom:link href="http://localhost/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Elements</title>
+      <link>http://localhost/articles/basic-elements/</link>
+      <pubDate>Sun, 14 Mar 2021 19:04:35 +0700</pubDate>
+      
+      <guid>http://localhost/articles/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

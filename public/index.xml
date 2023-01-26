@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heru Pedia</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Heru Pedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2023 19:07:53 +0700</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instagram</title>
+      <link>http://localhost/articles/instagram/</link>
+      <pubDate>Wed, 25 Jan 2023 19:07:53 +0700</pubDate>
+      
+      <guid>http://localhost/articles/instagram/</guid>
+      <description>Test Post 123</description>
+    </item>
+    
+    <item>
+      <title>Basic Elements</title>
+      <link>http://localhost/articles/basic-elements/</link>
+      <pubDate>Sun, 14 Mar 2021 19:04:35 +0700</pubDate>
+      
+      <guid>http://localhost/articles/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Goisforlovers</title>
+      <link>http://localhost/articles/goisforlovers/</link>
+      <pubDate>Sun, 14 Mar 2021 19:04:35 +0700</pubDate>
+      
+      <guid>http://localhost/articles/goisforlovers/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
+its template engine. It is an extremely lightweight engine that provides a very
+small amount of logic. In our experience that it is just the right amount of
+logic to be able to create a good static website. If you have used other
+template systems from different languages or frameworks you will find a lot of
+similarities in Go templates.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost/articles/hello-world/</link>
+      <pubDate>Sun, 14 Mar 2021 19:04:35 +0700</pubDate>
+      
+      <guid>http://localhost/articles/hello-world/</guid>
+      <description>asdas</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost/about-me/</link>
+      <pubDate>Thu, 11 Mar 2021 17:45:37 +0700</pubDate>
+      
+      <guid>http://localhost/about-me/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris justo libero, venenatis in molestie a, porta vitae nunc.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost/contact/</link>
+      <pubDate>Thu, 11 Mar 2021 17:45:37 +0700</pubDate>
+      
+      <guid>http://localhost/contact/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris justo libero, venenatis in molestie a, porta vitae nunc.</description>
+    </item>
+    
+  </channel>
+</rss>
